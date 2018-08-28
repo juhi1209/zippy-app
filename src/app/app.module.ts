@@ -4,12 +4,14 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { ZippyComponent } from './zippy/zippy.component';
+import { SwitchComponent } from './switch/switch.component';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    ZippyComponent
+    ZippyComponent,
+    SwitchComponent
   ],
   imports: [
     BrowserModule
