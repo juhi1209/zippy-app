@@ -4,15 +4,16 @@
     margin-left: 100px;
 }
 .zippy h1{   
-    padding: 15px;
+    padding: 20px;
     font-weight: bold;
     cursor: pointer;
     border-radius: 5px;
+    margin: 0;
 }
 .zippy .body {
     padding: 20px;
 }
-.zippy.expanded {
+.expanded {
   background: #f0f0f0;  
 }
 .pull-right{ 
